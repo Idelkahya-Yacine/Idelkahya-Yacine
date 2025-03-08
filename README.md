@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idelkahya Yacine</h1>
-<h3 align="center">A passionate application developer from Morocco</h3>
+<h3 align="center">A passionate Application Developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idelkahya-yacine&label=Profile%20views&color=0e75b6&style=flat" alt="idelkahya-yacine" /> </p>
 

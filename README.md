@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java,Kotlin and Flutter**
 
-- 👨‍💻 My portfolio https://idelkahya-yacine.github.io/Portfolio/
-
 - 📫 How to reach me **yaseenibrahim32@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=idelkahya-yacine&show_icons=true&locale=en&layout=compact" alt="idelkahya-yacine" /></p>
